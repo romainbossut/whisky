@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+whisky/__init__.py
+whisky/items.py
+whisky/middlewares.py
+whisky/pipelines.py
+whisky/settings.py
+whisky/spiders/__init__.py
+whisky/spiders/whisky_spider.py
